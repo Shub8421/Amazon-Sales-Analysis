@@ -10,54 +10,34 @@ Excel,Jupyter,Tableau
 # Programming Language
 Python
 # Conclusions
-Electronics especially accessories & peripherals and Kitchen & home 
-appliance contain most of the products in this data set.
- Sony Bravia 164 cm (65 inches) is the most expensive product after 
-discount.
-E-cosmos 5V 1.2W Portable Flexible is the cheapest product after
-discount.
-There are more than 500 active reviewers who review the 
-product anonymously under the aliasof Amazon customer, 
-Placeholder, kindle customer There are more than 8 people who 
-have given ratings and reviews to more than 10 products on this 
-dataset.
-Sony Bravia 164cm having the largest price difference due to 
-discount.
-There is almost no correlation between the dataset but there is 
-positive correlation betweenthe discounted price of product 
-and actual price of product.
-Most of the product range around 4.0 to 4.37 with no products 
-under the score of 2.0. The Rating Distribution is Slightly Left Skewed. The amount of ratings given to a product is very
-widespread. Most of the products that have been rated, have 
-around 0 - 5000 amount of rating f o r each product. 
-Interestingly there are products that have more than 40,000 
-ratings. The amount of ratings distribution is highly right 
-skewed.
-Toys&Games, Car&Motorbike and health&PersonalCare product 
-rating around 3.7 to 4.6. All homeImpprovement and 
-officeProduct have the minimal rating of 4.0. Many of the 
-Computer &Accessories, and Electronics products have ratings in 
-the range of 3.6 - 4.6. Though these categories do have products 
-that have a high rating such as 5.0 and low rating, going down to
-2.75.
-What I observed in this Graph of Rating Distribution by Product 
-Sub Category is that Accessories & Peripherals is highly rated
-product. The Lowest rated product came from the subcategory 
-of heating, cooling & air quality.
-Most of the product in the dataset have been rated Above 
-average. There are extremely fewproducts are rated below 
-Average and Excellent. No Products are rated poor in this 
-dataset.
-Actual price and discounted Price distribution both of the Graph 
-shows the same results which is positive Skewed to right.
-Most of the Product have the discount of more than 50% to 80%.
-Computers & Accessories, Electronics, Home & Kitchen have a 
-large widely spread discount ranging from minimal 10% to 90%.
-Toys & game, Car & Motorbike, Health & Personal Care, Home
-Improvement are the least spread discount. office product does 
-not give a large amount of discount as compared to product 
-main category.
- There is the decrease in the product category of electronic after 
-applying Discount. Most of theproduct's actual price falls below 
-20,000 Rupee. For the discounted price, most of the products fall 
-under 10,000 Rupee.
+1.Sales management is crucial in today's competitive environment to enhance distribution methods, reduce costs, and increase profits.
+
+2.The dataset contains a wide range of products, with Electronics (especially accessories & peripherals) and Kitchen & home appliances being the most prominent categories.
+
+3.The most expensive product after discount is the Sony Bravia 164 cm (65 inches), while the cheapest discounted product is the E-cosmos 5V 1.2W Portable Flexible.
+
+4.There are over 500 active reviewers who provide anonymous reviews under aliases like Amazon customer, Placeholder, and kindle customer.
+
+5.Some individuals have given ratings and reviews for more than 10 products in the dataset, indicating a level of engagement and interest.
+
+6.The Sony Bravia 164cm has the largest price difference due to the discount it receives.
+
+7.There is a positive correlation between the discounted price and the actual price of a product, suggesting that higher-priced products tend to have higher discounts.
+
+8.Most products have ratings ranging from 4.0 to 4.37, with very few products scoring below 2.0. The rating distribution is slightly left-skewed.
+
+9.The number of ratings given to a product varies widely, with most products receiving around 0-5000 ratings. Some products have exceptionally high ratings, surpassing 40,000.
+
+10.Toys & Games, Car & Motorbike, and Health & Personal Care products have ratings ranging from 3.7 to 4.6. Home Improvement and Office Products have a minimum rating of 4.0.
+
+11.Accessories & Peripherals is highly rated, while the lowest-rated products come from the heating, cooling & air quality subcategory.
+
+12.Most products in the dataset have been rated above average, with very few rated below average or excellent. There are no products rated as poor.
+
+13.Both the actual price and discounted price distributions show a positive skew to the right. Most products have discounts ranging from 50% to 80%.
+
+14.Computers & Accessories, Electronics, and Home & Kitchen categories offer a wide range of discounts, from 10% to 90%. Toys & Games, Car & Motorbike, Health & Personal Care, and Home Improvement have relatively lower discount ranges.
+
+15.Electronics category shows a decrease in the number of products after applying the discount.
+
+16.Most products have an actual price below 20,000 Rupees, and the majority of products fall under 10,000 Rupees after applying the discount.
