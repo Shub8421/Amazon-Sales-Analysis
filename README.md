@@ -1,8 +1,6 @@
 # Amazon-Sales-Analysis
-Sales management has gained importance to meet increasing competition and the need
-for improved methods of distribution to reduce cost and to increase profits. Sales
-management today is the most important function in a commercial and business
-enterprise
+•	The goal of this project is to analyze the Amazon
+Sales occurrence, based on a combination of features that describes product category, product name, rating, rating count, actual price and discounted price.
 # Dataset 
  PRODUCT_ID ,PRODUCT_NAME ,CATEGORY,DISCOUNTED_PRICE,ACTUAL_PRICE,DISCOUNT_PERCENTAGE ,RATING, RATING_COUNT, DIFFERENCE_PRICE. 
 # Tools
