@@ -2,7 +2,7 @@
 •	The goal of this project is to analyze the Amazon
 Sales occurrence, based on a combination of features that describes product category, product name, rating, rating count, actual price and discounted price.
 # Dataset 
- PRODUCT_ID ,PRODUCT_NAME ,CATEGORY,DISCOUNTED_PRICE,ACTUAL_PRICE,DISCOUNT_PERCENTAGE ,RATING, RATING_COUNT, DIFFERENCE_PRICE. 
+ Product_id ,Product_Name ,Category,Discounted_Price,Actual_Price,Discounted_Percentage ,Rating, Rating_Count, Difference_Price. 
 # Tools
 Excel,Jupyter,Tableau
 # Programming Language
