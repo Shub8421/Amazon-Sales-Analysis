@@ -4,38 +4,33 @@ Sales occurrence, based on a combination of features that describes product cate
 # Dataset 
  Product_id ,Product_Name ,Category,Discounted_Price,Actual_Price,Discounted_Percentage ,Rating, Rating_Count, Difference_Price. 
 # Tools
-Excel,Jupyter,Tableau
+JupyterNotebook,Tableau
 # Programming Language
 Python
 # Conclusions
-1.Sales management is crucial in today's competitive environment to enhance distribution methods, reduce costs, and increase profits.
+•	Amazon heavily relies on discount-led selling.
+•	Despite high discount rating remains strong which indicate customers values perceived deals.
+•	Large reviews volume indicates high customer engagement and trust.
+•	Low rated products are rare but risky.
+•	Majority of product lie between 4.0 to 4.5 very few products below 3.5 indicates strong quality control or review moderation.
+•	Low rated product should be monitor or delisted.
+•	Most of the product fall between 30% to 70% discount and extreme discount 80% to 90% exist but are fewer.
+•	Very Low discount less than 10% are uncommon.
+•	No strong correlation between higher discount equal to higher rating.
+•	 Product with 0% to 20% discount still achieve 4 + rating.
+•	Over discounting does not improve customer satisfaction.
+•	Sellers are losing margin over unnecessarily discount. 
+•	Product with high reviews 100k+ mostly stay around 4.0 and 4.3
+•	Rating stabilizes as reviews increase.
+•	Hight ticket items more than 50k still receive heavy discount.
+•	Early reviews are critical for the product success.
+•	Significant margin sacrifice even on premium products.
+•	Electronic dominates the platform.
+•	Other categories are niche and underrepresented.
+•	 Non -core categories have growth opportunity but low focus.
+# Strategic Recommendation
+•	Reduce discounts on 4.3+ rated products
+•	Push review acquisition for new products
+•	Expand Home, Personal Care & niche categories
+•	Focus on price-value balance, not just discount %
 
-2.The dataset contains a wide range of products, with Electronics (especially accessories & peripherals) and Kitchen & home appliances being the most prominent categories.
-
-3.The most expensive product after discount is the Sony Bravia 164 cm (65 inches), while the cheapest discounted product is the E-cosmos 5V 1.2W Portable Flexible.
-
-4.There are over 500 active reviewers who provide anonymous reviews under aliases like Amazon customer, Placeholder, and kindle customer.
-
-5.Some individuals have given ratings and reviews for more than 10 products in the dataset, indicating a level of engagement and interest.
-
-6.The Sony Bravia 164cm has the largest price difference due to the discount it receives.
-
-7.There is a positive correlation between the discounted price and the actual price of a product, suggesting that higher-priced products tend to have higher discounts.
-
-8.Most products have ratings ranging from 4.0 to 4.37, with very few products scoring below 2.0. The rating distribution is slightly left-skewed.
-
-9.The number of ratings given to a product varies widely, with most products receiving around 0-5000 ratings. Some products have exceptionally high ratings, surpassing 40,000.
-
-10.Toys & Games, Car & Motorbike, and Health & Personal Care products have ratings ranging from 3.7 to 4.6. Home Improvement and Office Products have a minimum rating of 4.0.
-
-11.Accessories & Peripherals is highly rated, while the lowest-rated products come from the heating, cooling & air quality subcategory.
-
-12.Most products in the dataset have been rated above average, with very few rated below average or excellent. There are no products rated as poor.
-
-13.Both the actual price and discounted price distributions show a positive skew to the right. Most products have discounts ranging from 50% to 80%.
-
-14.Computers & Accessories, Electronics, and Home & Kitchen categories offer a wide range of discounts, from 10% to 90%. Toys & Games, Car & Motorbike, Health & Personal Care, and Home Improvement have relatively lower discount ranges.
-
-15.Electronics category shows a decrease in the number of products after applying the discount.
-
-16.Most products have an actual price below 20,000 Rupees, and the majority of products fall under 10,000 Rupees after applying the discount.
